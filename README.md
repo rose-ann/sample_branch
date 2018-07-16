@@ -1,4 +1,3 @@
 # sample_branch
 # sample creation of branch
-# sample commit from local branchd
-
+# sample merge
