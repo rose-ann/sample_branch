@@ -1,3 +1,4 @@
 # sample_branch
-# edited readme.md
-# testing
+# sample creation of branch
+# sample commit from local branchd
+
